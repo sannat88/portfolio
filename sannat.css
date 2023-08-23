@@ -98,13 +98,13 @@ body {
 /* <!-- HERO SECTION  --> */
 
 .heading {
-    font-size: "Open Sans";
+    font-family: "Open Sans";
     font-size: 3rem;
     font-weight: 700;
 }
 
 .h3 {
-    font-size: "Open Sans";
+    font-family: "Open Sans";
     font-size: 1.3rem;
     font-weight: 400;
 }
